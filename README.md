@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Information Retrieval, Python, React.js, Java Script (Advance), VueJs (Advance), Networking, and so on..**
 
-- 👨‍💻 My CV at [https://bit.ly/3lRoxvh)
+- 👨‍💻 My CV at [https://bit.ly/???)
 
 - 📫 How to reach me **ahmad.naufalangkasah@gmail.com**
 
