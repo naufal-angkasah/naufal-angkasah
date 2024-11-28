@@ -35,6 +35,11 @@ Here are some ideas to get you started:
 </p>
 
 ## 🛠️ Tools and Skills
+
+<details> 
+  <summary><b>🤔 I've studied</b></summary>
+  <br/>
+  
 - **Programming Languages:**
    <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -50,7 +55,8 @@ Here are some ideas to get you started:
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vuejs" width="40" height="40"/> </a>
-- **Database Management:**  PostgreSQL, MongoDB
+  
+- **Database Management:**  
    <p align="left">
      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
        <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
@@ -88,7 +94,7 @@ Here are some ideas to get you started:
    <p align="left">
      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 
-- **Network Management:** Mickrotik, Cisco, Huawei, NS3
+- **Network Management:** 
    <p align="left">
   <a href="https://mikrotik.com/" target="_blank" rel="noreferrer"> <img src="https://mikrotik.com/img/mtv2/newlogo.svg" alt="MicroTik" width="60" height="40"/> </a>
   <a href="https://www.cisco.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" alt="Cisco" width="40" height="40"/> </a>
@@ -99,5 +105,19 @@ Here are some ideas to get you started:
 
 <!--   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  -->
 </p>
+</details>
+<h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/naufal-angkasah/github-readme-stats"><img alt="naufal-angkasah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=naufal-angkasah&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naufal-angkasah&show_icons=true&locale=en&layout=compact&theme=algolia" alt="naufal-angkasah" height="192px"/>
+  <br/>
+  </p>
+</details>
   
 
