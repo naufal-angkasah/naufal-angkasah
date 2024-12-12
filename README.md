@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Information Retrieval, Python, React.js, Java Script (Advance), VueJs (Advance), Networking, and so on..**
 
-- 👨‍💻 My CV at [http://bit.ly/4g6SHBx)
+- 👨‍💻 My CV at (http://bit.ly/4g6SHBx)
 
 - 📫 How to reach me **ahmad.naufalangkasah@gmail.com**
 
@@ -106,18 +106,25 @@ Here are some ideas to get you started:
 <!--   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  -->
 </p>
 </details>
-<h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
+<!-- <h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
+ -->
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=naufal-angkasah&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufal-angkasah&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+<hr/>
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/naufal-angkasah/github-readme-stats"><img alt="naufal-angkasah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=naufal-angkasah&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naufal-angkasah&show_icons=true&locale=en&layout=compact&theme=algolia" alt="naufal-angkasah" height="192px"/>
-  <br/>
-  </p>
-</details>
+
+<div align="center">
+<a href='https://buymeacoffee.com/naufal.angkasah' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
+</div>
+
+<br/>
+
   
 
