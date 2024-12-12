@@ -108,14 +108,15 @@ Here are some ideas to get you started:
 </details>
 <!-- <h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
  -->
- <div align="center">
+<!--  <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
    ![snake animation](https://github.com/naufal-angkasah/naufal-angkasah/blob/output/github-contribution-grid-snake2.svg)
   <img alt="snake eating my contributions" src="https://github.com/naufal-angkasah/naufal-angkasah/blob/output/github-contribution-grid-snake.gif" /> <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/naufal-angkasah/naufal-angakasah/output/github-contribution-grid-snake.svg" /> <br>
    ![snake gif]
-   (https://github.com/naufal-angkasah/naufal-angkasah/blob/output/github-contribution-grid-snake.svg) <br>
+   (https://github.com/naufal-angkasah/naufal-angkasah/blob/output/github-contribution-grid-snake-dark.svg) <br>
+   -->
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/naufal-angkasah/naufal-angakasah/output/github-contribution-grid-snake.svg" />
   
    
