@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=naufal-angkasah.naufal-angkasah" />
 <h1 align="center">HELLO EVERYBODY.. 👋, I'm Naufal Angkasah</h1>
 <h3>
   <a href="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=4002&pause=1000&color=45DBF7&center=true&vCenter=true&width=435&lines=Welcome+to+My+Github+Profile;I'm+A+Computer+Science+Graduate;From+Syiah+Kuala+University" alt="Typing SVG" /></a>
