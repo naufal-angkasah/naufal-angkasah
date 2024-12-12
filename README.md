@@ -111,8 +111,10 @@ Here are some ideas to get you started:
  <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-     <img alt="snake eating my contributions" src="https://github.com/naufal-angkasah/naufal-angkasah/blob/output/github-contribution-grid-snake.gif" />
-<!--    ![snake gif]
+   ![snake animation](https://github.com/<seu naufal-angkasah>/<seu naufal-angkasah>/blob/output/github-contribution-grid-snake2.svg)
+<!--   <img alt="snake eating my contributions" src="https://github.com/naufal-angkasah/naufal-angkasah/blob/output/github-contribution-grid-snake.gif" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/naufal-angkasah/naufal-angakasah/output/github-contribution-grid-snake.svg" />
+   ![snake gif]
    (https://github.com/naufal-angkasah/naufal-angkasah/blob/output/github-contribution-grid-snake.svg)
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/naufal-angkasah/naufal-angakasah/output/github-contribution-grid-snake.svg" />
    -->
