@@ -108,7 +108,7 @@ Here are some ideas to get you started:
 </details>
 <!-- <h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
  -->
-<!--  <div align="center">
+ <!-- <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
    ![snake animation](https://github.com/naufal-angkasah/naufal-angkasah/blob/output/github-contribution-grid-snake2.svg)
@@ -126,12 +126,14 @@ Here are some ideas to get you started:
 <br>
 <div align=center>
   
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=naufal-angkasah&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats" />
+  
   <br/>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=naufal-angkasah&theme=dark&hide_border=false" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufal-angkasah&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+ 
 </div>
+<!-- <img width=390 src="https://github-readme-stats.vercel.app/api?username=naufal-angkasah&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats" /> -->
+ <!-- <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufal-angkasah&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
 <hr/>
 
 <br/>
